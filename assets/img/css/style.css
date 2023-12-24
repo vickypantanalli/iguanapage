@@ -71,12 +71,16 @@ header > h1 {
 }
 
 .icono{
-    padding-left: 20px;
-    font-size: 1.5rem;
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size: 1.5rem;
 }
+
+i {
+    padding-bottom: 10px;
+}
+
 
 .galeria{
     width: 1280px;
@@ -98,7 +102,7 @@ footer{
     height:110px;
     text-align: center;
     background-color: #2e2009;
-} 
+}
 
 footer > p {
     margin: 0;
