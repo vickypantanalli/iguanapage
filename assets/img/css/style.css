@@ -77,8 +77,9 @@ header > h1 {
     font-size: 1.5rem;
 }
 
-i {
-    padding-bottom: 10px;
+.icono i {
+    padding-bottom: 15px;
+    
 }
 
 
