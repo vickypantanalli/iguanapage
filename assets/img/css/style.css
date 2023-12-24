@@ -72,6 +72,10 @@ header > h1 {
 
 .icono{
     padding-left: 20px;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .galeria{
