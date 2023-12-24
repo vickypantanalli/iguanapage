@@ -58,10 +58,10 @@ header > h1 {
 }
 
 .caracteristicas > h3{
-    display: inline-block;
+    /* display: inline-block; */
     font-size: 48px;
     padding: 75px 460px 50px 390px;
-    margin: 0;
+    /* margin: 0; */
     text-align: center;
 }
 
